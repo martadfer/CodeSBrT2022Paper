@@ -4,7 +4,7 @@ Real time emotion recognition project from Affective Computing course from FEEC 
 
 # Authors
 
-* Douglas (douglas@email)
-* Marta (marta@email)
+* Douglas (douglashsabreu@gamil.com)
+* Marta
 * Lucas Hideki Ueda (lucashueda@gmail.com)
-* Vítor (vitor@email)
+* Vítor 
