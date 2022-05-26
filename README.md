@@ -1,6 +1,6 @@
 # Real time emotion recognition
 
-Real time emotion recognition project from Affective Computing course from FEEC (UNICAMP).
+Paper: Use of CNN to assess emotions evoked by auditory stimuli in videos.
 
 # Authors
 
